@@ -13,10 +13,12 @@ I enjoy collaborating and working with others. Please reach out!
 <div align="center">
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
