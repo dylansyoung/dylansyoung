@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm Dylan, <strong>Full Stack Software Engineer</strong>.  
-I am currently living in the United States and based in Atlanta, GA.
-I enjoy anything and everything releated to sports and enjoy learning and developing my skillset.
-Here lives all of my personal projects and contributions to <strong>open-source</strong> initiatives.
+I'm Dylan, <strong>Full Stack Software Engineer</strong>. 
 
-I enjoy collaborating and working with others. Please reach out!
+I am currently living in the United States and based in Atlanta, GA.
+In my free time I enjoy playing drums and watching sports. Feel free to reach out!
+
+Here lives all of my personal projects and contributions to <strong>open-source</strong> initiatives.
 
 ## Skills
 <div align="center">
