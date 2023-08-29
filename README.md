@@ -23,6 +23,8 @@ Here lives all of my personal projects and contributions to <strong>open-source<
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
 
+
+## Stats
 <div align="center">
 
 ![Dylan's github stats](https://github-readme-stats.vercel.app/api?username=dylansyoung&show_icons=true&theme=radical&rank_icon=github)</br></br>![Dylan's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dylansyoung&theme=radical)</br></br>![](https://github-contributor-stats.vercel.app/api?username=dylansyoung&limit=5&theme=radical&combine_all_yearly_contributions=true)
